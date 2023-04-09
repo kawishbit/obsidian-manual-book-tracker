@@ -1,0 +1,11 @@
+{
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "showFrontmatter": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
+}

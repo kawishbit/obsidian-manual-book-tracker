@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "b6a02b1a3cfa4649",
+    "type": "split",
+    "children": [
+      {
+        "id": "56e2cd32e2e59665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7207c18b7a0260e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Quotes/Quote_C65HF6PH.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c55fbb4176078911",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f5b04908eb3a263",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be23ae8e5a0f70c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed72fb8780be1366",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#sample_tag_1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c62ab5fa83eb772d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "49b980ff9f7969bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "777c9bad5be69b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecad42dd859b1652",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Quotes/Quote_C65HF6PH.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71edfa829bdc7368",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Quotes/Quote_C65HF6PH.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb294fb58ee12912",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f09e8eaca58d726f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Quotes/Quote_C65HF6PH.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "d7207c18b7a0260e",
+  "lastOpenFiles": [
+    "1. Dashboard/Dashboard.md",
+    "5. Progresses/progress_AE7PAGVW_TW3BHAJ8.md",
+    "4. Quotes/Quote_C65HF6PH.md",
+    "5. Progresses/progress_AE7PAGVW_PTT7YQKB.md",
+    "2. Books/AE7PAGVW_how_to_read_a_book.md",
+    "0. Miscellaneous/Templates/book_template.md",
+    "0. Miscellaneous/Templates/progress_template.md",
+    "3. Authors/8PEZVHFA_mortimer_j_adler.md",
+    "0. Miscellaneous/Templates/author_template.md",
+    "3. Authors/Q2CR0KTM_charles_lincoln_van.md",
+    "0. Miscellaneous/Enums/Genres/💠 Linguistic.md",
+    "0. Miscellaneous/Enums/Genres/🎭 Art.md",
+    "0. Miscellaneous/Scripts/ulid.js",
+    "0. Miscellaneous/Scripts/slugify.js",
+    "0. Miscellaneous/Scripts/create_quote.js",
+    "0. Miscellaneous/Scripts/create_publisher.js",
+    "0. Miscellaneous/Scripts/create_progress.js",
+    "0. Miscellaneous/Scripts/create_book.js",
+    "0. Miscellaneous/Scripts/create_author.js",
+    "0. Miscellaneous/Scripts",
+    "0. Miscellaneous/Placeholders/No Authors.md",
+    "0. Miscellaneous/Enums/BookStatus/📅 Plan To Read.md",
+    "0. Miscellaneous/Enums/BookStatus/⏰ On Hold.md",
+    "0. Miscellaneous/Enums/BookStatus/✅ Completed.md",
+    "0. Miscellaneous/Enums/BookStatus/🛑 Dropped.md",
+    "0. Miscellaneous/Enums/BookStatus.md",
+    "0. Miscellaneous/Enums/Genres.md",
+    "0. Miscellaneous/Enums/BookStatus/👀 Reading.md",
+    "0. Miscellaneous/Enums/Genres/⌛ History.md",
+    "6. Publishers/BBCT836P_touchstone.md",
+    "0. Miscellaneous/Enums/BookStatus",
+    "0. Miscellaneous/Templates/quote_template.md",
+    "0. Miscellaneous/Templates/publisher_template.md",
+    "0. Miscellaneous/Placeholders/Unknown.md",
+    "0. Miscellaneous/Placeholders/No Source.md",
+    "0. Miscellaneous/Templates",
+    "Pasted image 20230409170347.png",
+    "Untitled.canvas",
+    "0. Miscellaneous/400x640.jpg"
+  ]
+}

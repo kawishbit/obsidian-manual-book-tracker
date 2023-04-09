@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#ffffff",
+    "recentlyUsedIcons": [
+      "LiCode2",
+      "LiLayout",
+      "LiListChecks",
+      "LiBoxSelect",
+      "LiStar"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 8,
+      "bottom": 0,
+      "left": -1
+    }
+  },
+  "_. Index": "LiLayers",
+  "0. Projects": "LiBoxes",
+  "2. Papers": "LiNewspaper",
+  "2. Books": "LiBook",
+  "0. Miscellaneous": "LiLayers",
+  "1. Dashboard": "LiLayoutDashboard",
+  "3. Authors": "LiUsers",
+  "4. Quotes": "LiQuote",
+  "5. Progresses": "LiPercent",
+  "6. Publishers": "LiBuilding2",
+  "0. Miscellaneous/Placeholders": "LiBoxSelect",
+  "0. Miscellaneous/Enums": "LiListChecks",
+  "0. Miscellaneous/Templates": "LiLayout",
+  "0. Miscellaneous/Scripts": "LiCode2"
+}

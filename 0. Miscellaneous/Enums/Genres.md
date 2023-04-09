@@ -1,0 +1,11 @@
+## Genres
+- [[🎭 Art]] 
+- [[💰 Economy]]
+- [[⌛ History]]
+- [[🎲 Philosophy]]
+- [[⚖ Politics]]
+- [[🥽 Technology]]
+- [[📝 Biography]]
+- [[👾 Fiction]]
+- [[🕌 Theology]]
+- [[🧬 Science]]

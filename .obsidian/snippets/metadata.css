@@ -1,0 +1,89 @@
+.frontmatter-container {
+  border-radius: 15px;
+  padding: 15px 18px 15px 15px;
+  transition: opacity 300ms linear;
+  opacity: 1;
+  margin-bottom: 15px;
+  background: hsl(0deg 0% 7%);
+}
+
+.frontmatter-section {
+  padding: 5px 0;
+  justify-content: flex-start;
+}
+
+.frontmatter-section .frontmatter-section-label {
+  flex: 0 1 150px;
+  position: relative;
+}
+.frontmatter-section .frontmatter-section-label:after {
+  content: ":";
+  position: absolute;
+  right: 10px;
+}
+.frontmatter-section .frontmatter-section-data {
+  flex: 1;
+}
+.frontmatter-section .frontmatter-section-data .frontmatter-section-data-item {
+  font-size: 14px;
+}
+
+.callout-title {
+  color: rgb(var(--text-normal));
+}
+
+.no-bullets ul {
+  padding-inline-start: 0;
+}
+.no-bullets ul li {
+  list-style-type: none;
+}
+.admonition-parent {
+  border-left: 2px solid #fff;
+}
+
+.admonition-parent .callout {
+  padding: 30px;
+}
+.admonition-parent .callout-icon {
+  margin-top: 0.1em;
+}
+.admonition-parent .callout-title-inner {
+  margin-left: 10px;
+}
+.admonition-parent .callout-content {
+  padding: 20px 0 0;
+}
+.admonition-parent .callout-content table {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+span.tag {
+  background-color: var(--tag-background);
+  border: var(--tag-border-width) solid var(--tag-border-color);
+  border-radius: var(--tag-radius);
+  color: var(--tag-color);
+  font-size: var(--tag-size);
+  text-decoration: var(--tag-decoration);
+  padding: var(--tag-padding-y) var(--tag-padding-x);
+  line-height: 1;
+}
+
+table th,
+table td {
+  padding: 1em !important;
+}
+
+.wide-page .markdown-preview-sizer {
+  max-width: 100% !important;
+}
+
+.inline-title {
+  font-size: 1.25em;
+  opacity: 0.25;
+}
+.inline-title:focus {
+  font-size: 1.25em;
+  opacity: 1;
+  transition: 200ms;
+}
