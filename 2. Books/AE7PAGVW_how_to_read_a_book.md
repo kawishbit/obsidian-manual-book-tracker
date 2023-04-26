@@ -8,7 +8,7 @@ segment_name: "Pages"
 %% 
 book_id:: "AE7PAGVW"
 slug:: "how_to_read_a_book"
-isbn:: "978-0671212094"
+isbn:: "9780671212094"
 title:: "How to Read a Book: The Classic Guide to Intelligent Reading"
 author:: [[8PEZVHFA_mortimer_j_adler]], [[Q2CR0KTM_charles_lincoln_van]]
 publisher:: [[BBCT836P_touchstone]]

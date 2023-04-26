@@ -1,6 +1,6 @@
 ---
 tags: []
-progress_date: 2022-07-29
+progress_date: 2022-07-29T00:00
 ---
 %%
 <%* let {progressId, book, title, progressPoint} = await tp.user.create_progress(tp) -%>
@@ -22,7 +22,7 @@ color: 72, 72, 72
 | --- | --- |
 | **title** | `= this.title` |
 | **Content** | `= this.content.title` |
-| **Progress Date** | `= dateformat(date(this.progress_date), "yyyy-MM-dd")` |
+| **Progress Date** | `= dateformat(date(this.progress_date), "yyyy-MM-dd HH:mm")` |
 | **Progress** | `= this.progress` |
 ```
 

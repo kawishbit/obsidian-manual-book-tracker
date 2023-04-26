@@ -1,6 +1,6 @@
 ---
 tags: []
-progress_date: 2022-08-01
+progress_date: 2022-08-01T06:00
 ---
 %%
 progress_id:: "PTT7YQKB"
@@ -21,7 +21,7 @@ color: 72, 72, 72
 | --- | --- |
 | **title** | `= this.title` |
 | **Content** | `= this.content.title` |
-| **Progress Date** | `= dateformat(date(this.progress_date), "yyyy-MM-dd")` |
+| **Progress Date** | `= dateformat(date(this.progress_date), "yyyy-MM-dd HH:mm")` |
 | **Progress** | `= this.progress` |
 ```
 
